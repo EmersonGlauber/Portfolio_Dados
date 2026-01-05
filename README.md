@@ -11,7 +11,7 @@ Sou enfermeiro e atualmente mestrando em Saúde Coletiva, onde descobri a paixã
 |------|-----------|------|----------------|----------|
 | Dengue em crianças e adolescentes no Brasil | Python | [Dengue](https://github.com/EmersonGlauber/Portfolio_Dados/blob/main/Analise%20de%20Dengue%202024/analise_dengue_2024.ipynb) |CSV (DataSUS) | Descrever casos de dengue na faixa etária de 10 a 14 anos no Brasil|
 
-### Hard Skills
+### 💻 Hard Skills
 
 - Python
 - R 
