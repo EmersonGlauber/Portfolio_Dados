@@ -11,7 +11,7 @@ A partir dos dados disponibilizados foi desenvolvido um dashboard interativo atr
 
 ### Resultatos
 
-[imagem]
+![imagem](https://github.com/EmersonGlauber/Portfolio_Dados/blob/main/Vendas%20Xbox/dashboard.png)
 
 Foram apresentados:
 - Resuldo de faturamento por tipo de assinaturas;

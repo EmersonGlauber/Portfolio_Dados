@@ -1,15 +1,14 @@
 ---
 title: "Vacinação"
-output:
-  html_document: default
-date: "2026-01-07"
+output: github_document
+always_allow_html: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Dado de janeiro de 2026 (dados incompletos)
+## Dados de janeiro de 2026 (dados incompletos)
 
 ### Contexto
 O ano de 2026 começou e o Ministério da Saúde disponibilizou os dados de vacinação até 05 de janeiro de 2026.  
