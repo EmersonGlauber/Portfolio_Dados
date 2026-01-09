@@ -9,7 +9,9 @@ Sou enfermeiro e atualmente mestrando em Saúde Coletiva, onde descobri a paixã
 
 | Tema | Linguagem | Link |Fonte dos dados | Objetivo |
 |------|-----------|------|----------------|----------|
-| Dengue em crianças e adolescentes no Brasil | Python | [Dengue](https://github.com/EmersonGlauber/Portfolio_Dados/blob/main/Analise%20de%20Dengue%202024/analise_dengue_2024.ipynb) |CSV (DataSUS) | Descrever casos de dengue na faixa etária de 10 a 14 anos no Brasil|
+| Dengue em crianças e adolescentes no Brasil | Python | [Link](https://github.com/EmersonGlauber/Portfolio_Dados/blob/main/Analise%20de%20Dengue%202024/analise_dengue_2024.ipynb) |DataSUS| Descrever casos de dengue na faixa etária de 10 a 14 anos no Brasil|
+|Vacina em serviços privados|R|[Link]()|DataSUS|Descrever o perfil de vacinas vendidas de 01 a 05 de janeiro de 2026|
+|Vendas de assinaturas XBOX|Excel|[Link]()|Bootcamp| Desenvolver um dashboard com dados de venda de assinatura de serviços XBox|
 
 ### 💻 Hard Skills
 
